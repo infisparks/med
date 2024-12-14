@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "622823196861",
+    "firebase_url": "https://medblis-default-rtdb.firebaseio.com",
+    "project_id": "medblis",
+    "storage_bucket": "medblis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622823196861:android:d428d4987cd7c197b4cfd4",
+        "android_client_info": {
+          "package_name": "com.example.medbliss_f"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622823196861-km3r2rukp2r2ab7hv8o0lflu3eh81tu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxe0xDME3KUgMdnI3bGfURoB1xwMvJqe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622823196861-km3r2rukp2r2ab7hv8o0lflu3eh81tu0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "622823196861-ke8kl77ieh99fi56vk65n01ln33826ak.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.medblissf"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622823196861:android:b45ea942b674f254b4cfd4",
+        "android_client_info": {
+          "package_name": "com.medbliss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622823196861-mftlk08o7phbokkr6b33t3tj6ffd891v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.medbliss",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "622823196861-km3r2rukp2r2ab7hv8o0lflu3eh81tu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxe0xDME3KUgMdnI3bGfURoB1xwMvJqe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622823196861-km3r2rukp2r2ab7hv8o0lflu3eh81tu0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "622823196861-ke8kl77ieh99fi56vk65n01ln33826ak.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.medblissf"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
