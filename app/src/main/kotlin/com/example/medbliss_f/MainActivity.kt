@@ -1,4 +1,4 @@
-package com.example.medbliss_f
+package com.infispark.medbliss
 
 import io.flutter.embedding.android.FlutterActivity
 

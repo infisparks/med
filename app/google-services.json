@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:622823196861:android:d428d4987cd7c197b4cfd4",
         "android_client_info": {
-          "package_name": "com.example.medbliss_f"
+          "package_name": "com.infispark.medbliss"
         }
       },
       "oauth_client": [
@@ -35,7 +35,7 @@
               "client_id": "622823196861-ke8kl77ieh99fi56vk65n01ln33826ak.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.example.medblissf"
+                "bundle_id": "com.infispark.medbliss"
               }
             }
           ]
@@ -79,7 +79,7 @@
               "client_id": "622823196861-ke8kl77ieh99fi56vk65n01ln33826ak.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.example.medblissf"
+                "bundle_id": "com.infispark.medbliss"
               }
             }
           ]

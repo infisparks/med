@@ -11,12 +11,12 @@ if (keystorePropertiesFile.exists()) {
 }
 
 android {
-    namespace = "com.example.medbliss_f"
+    namespace = "com.infispark.medbliss"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = "25.1.8937393" // Explicitly set the NDK version here
 
     defaultConfig {
-        applicationId = "com.example.medbliss_f"
+        applicationId = "com.infispark.medbliss"
         minSdkVersion 23
         targetSdk = flutter.targetSdkVersion
         versionCode = flutter.versionCode
